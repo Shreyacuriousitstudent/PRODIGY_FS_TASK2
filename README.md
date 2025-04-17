@@ -66,6 +66,9 @@ Add, view, edit, or delete employee records from the dashboard
 📧 Email notifications for new entries
 
 
+This project is licensed under the MIT License.
+
+
 ---
 
 Let me know if you'd like me to generate a `LICENSE`, help you deploy this, or create matching badges and visuals!
